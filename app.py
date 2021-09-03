@@ -31,7 +31,7 @@ def get_api():
 
 @app.route('/raktur')
 def rakna():
-    return "jubjub"
+    return "นะระอ่าาาาา"
 
 if __name__ == "__main__":
     app.run(debug=True)
